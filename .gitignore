@@ -1,0 +1,6 @@
+secret.txt
+
+*.log
+!toto.log
+
+/sass/
